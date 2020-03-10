@@ -8,6 +8,7 @@ Aha! 					| Menlo Park, CA, US 								| Partially Remote					| Customer Success
 Airtable 			| San Francisco, CA, US 						| Partially Remote					| Support, QA		                                         | [link](https://airtable.com/careers#open-positions)							| Looks US-based											| Mar 9, 2020 
 Automattic 		|  																	| Fully Remote							| Dev, Design, Marketing, Customer, Ops, Finance, People | [link](https://automattic.com/work-with-us/)											|																			| Mar 9, 2020 
 Buffer 				| Birmingham, UK 										| Fully Remote							| Marketing                                              | [link](https://journey.buffer.com/)															|																			| Mar 9, 2020 
+Condé Nast 				| New York, NY, US 						| Partially Remote					| Design, UX Writing, Product, Dev                                       |[link](https://www.condenast.com/careers)													|US											| Mar 9, 2020 
 GitHub 				| San Francisco, CA, US 						| Partially Remote					| Across the Board                                       |[link](https://github.com/about/careers)													|Hiring globally											| Mar 9, 2020 
 Hotjar 				| Malta 														| Fully Remote 							| Marketing, Customer Exp, Ops, Dev, Product             |[link](https://careers.hotjar.com/)																|Currently looking to fill EMEA hours	| Mar 9, 2020 
 Interact			| San Francisco, CA, US 						| Fully Remote							| Marketing Intern                                       |Coming Soon!																											|US-based or contract global 					| Mar 9, 2020
