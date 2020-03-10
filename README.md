@@ -4,7 +4,7 @@ The revolution is here! This is the ongoing list of companies that are either pa
 
 Company Name 	| HQ Location (City/State/Country) 	| Partially or Fully Remote | Jobs Link                 | Hiring Constraints					| Last Updated 
 ------- 			| ------- 													|	 ------- 									| -------                 	| ------- 										| ------
-Aha! 					| Menlo Park, CA, US 								| Partially Remote					|  			                		| 														| Mar 9, 2020 
+Aha! 					| Menlo Park, CA, US 								| Partially Remote					| [link](https://www.aha.io/company/careers/current-openings)	| 														| Mar 9, 2020 
 Airtable 			| San Francisco, CA, US 						| Partially Remote					| 		                 			| 														| Mar 9, 2020 
 Automattic 		|  																	| Fully Remote							| 		                			| 														| Mar 9, 2020 
 Buffer 				| Birmingham, UK 										| Fully Remote							| 			                		| 														| Mar 9, 2020 
