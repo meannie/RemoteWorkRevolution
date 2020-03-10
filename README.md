@@ -1,6 +1,6 @@
 # RemoteWorkRevolution
 
-The revolution is here! This is the ongoing list of companies that are either partially or fully remote friendly.  
+The revolution is here! This is the ongoing list of companies that are either partially or fully remote friendly. Please add to it and keep this resource fresh. It's for the community, by the community. 
 
 Company Name 	| HQ Location (City/State/Country) 	| Partially or Fully Remote | Types or Roles                                         | Jobs Link                                                        | Hiring Constraints									|  Last Updated 
 ------- 			| ------- 													|	 ------- 									| -------                 	                             | -------                                                          | ------															| -------
